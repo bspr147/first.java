@@ -10,7 +10,7 @@ class Vowels
    char n=sc.next().charAt(0);
   if(n=='a'||n== 'e'||n=='i'||n=='o'||n=='u'||n=='A'||n=='E'||n=='I'||n=='O'||n=='U')
   {
-  	System.out.print("Vowel");
+  	System.out.print("vowel");
   	
   }
   else if(n=='b'||n=='c'||n=='d'||n=='f'||n=='g'||n=='h'||n=='j'||n=='k'||n=='l'||n=='m'||n=='n'||n=='p'||n=='q'||n=='r'||n=='s'||n=='t'||n=='v'||n=='w'||n=='x'||n=='y'||n=='z')

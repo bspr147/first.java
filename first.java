@@ -19,7 +19,7 @@ class first
  } 
  else
  {
- System.out.print("Invalid");
+ System.out.print("invalid");
  }
  }
  }
